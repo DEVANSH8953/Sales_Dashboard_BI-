@@ -1,3 +1,4 @@
+
 # Sales_Dashboard_BI
 In this data-driven project, unstructured data from Excel was seamlessly integrated into Power BI, marking the inception of a comprehensive Super Sales Dashboard. The data underwent meticulous cleaning, encompassing validation checks for data types and random value scrutiny. Following the preparation phase, a visually captivating background was curated, enhancing the overall aesthetic appeal.
 
