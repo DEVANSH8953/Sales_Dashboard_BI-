@@ -1,3 +1,4 @@
+![Schema SuperSales Dashboard ](https://github.com/DEVANSH8953/Sales_Dashboard_BI-/assets/99635503/8a73fbdf-f7dc-4085-9987-cd70ce01d02a)
 
 # Sales_Dashboard_BI
 In this data-driven project, unstructured data from Excel was seamlessly integrated into Power BI, marking the inception of a comprehensive Super Sales Dashboard. The data underwent meticulous cleaning, encompassing validation checks for data types and random value scrutiny. Following the preparation phase, a visually captivating background was curated, enhancing the overall aesthetic appeal.
